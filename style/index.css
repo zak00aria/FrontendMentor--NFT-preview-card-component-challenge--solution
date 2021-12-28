@@ -62,7 +62,7 @@ body{
 .card>.thumbnail>.view:hover{
   opacity:1;
 }
-.card>h3{
+.card>h1{
   display:block;
   font-size:1.2rem;
   font-weight:600;
@@ -71,7 +71,7 @@ body{
   margin-bottom:15px;
   line-height: 1;
 }
-.card>h3:hover{
+.card>h1:hover{
   color:var(--Cyan);
 }
 
