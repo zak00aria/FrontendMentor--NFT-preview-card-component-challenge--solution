@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://your-solution-url.com)
+- Live Site URL: [here](https://zak00aria.github.io/FrontendMentor--NFT-preview-card-component-challenge--solution/)
 
 ## My process
 
