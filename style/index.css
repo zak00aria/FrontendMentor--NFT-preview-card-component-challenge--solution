@@ -131,7 +131,7 @@ body{
   display:flex;
   justify-content: left;
   align-items: center;
-  margin:15px 0 0;
+  margin:15px 0 5px;
 }
 .card>.card-footer>.avatar{
   box-sizing:border-box;
